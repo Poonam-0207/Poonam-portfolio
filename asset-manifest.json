@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/poonam-portfolio/static/css/main.1a3554f8.css",
+    "main.js": "/poonam-portfolio/static/js/main.505ed791.js",
+    "static/js/453.dc791920.chunk.js": "/poonam-portfolio/static/js/453.dc791920.chunk.js",
+    "static/media/profile.png": "/poonam-portfolio/static/media/profile.a240e0313f08d0d51391.png",
+    "index.html": "/poonam-portfolio/index.html",
+    "main.1a3554f8.css.map": "/poonam-portfolio/static/css/main.1a3554f8.css.map",
+    "main.505ed791.js.map": "/poonam-portfolio/static/js/main.505ed791.js.map",
+    "453.dc791920.chunk.js.map": "/poonam-portfolio/static/js/453.dc791920.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a3554f8.css",
+    "static/js/main.505ed791.js"
+  ]
+}
